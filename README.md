@@ -5,3 +5,4 @@ This application allows the user to create an account, browse products and also 
 • View product details and see the number of views it has by other users
 • The ability to like, add comments on the product, modify and delete it
 • Modify user profile information
+• verify account using verification code sent by email 
